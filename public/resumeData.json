@@ -2,7 +2,7 @@
   "main": {
     "name":"Udenna Nebeolisa",
     "description":"I am a front-end web development engineer",
-    "image":"./images/profilepic.jpeg",
+    "image":"profilepic.jpeg",
     "bio":"I am a Full-Stack Software Engineer, with previous experience in the IT industry, and have a passion for innovation and a relentless drive for continuous improvement in all of my endeavors. After coding in Roblox as a hobby for years since childhood, early this year, I finally decided to become serious about Software Engineering and took a 15-week immersive course at Flatiron School to jumpstart this pivot in my career. It has truly been an experience to learn so much in a short amount of time and I'm excited to continue this learning journey. I aspire to achieve the objectives of the organization through hard work, sincerity, and creativity by exploring the potentials available in the world and being an asset for it. I strongly believe that the key to success is passion, willingness to learn, and humility.",
     "contactmessage":"Contact me",
     "email": "udennaboy@gmail.com",
