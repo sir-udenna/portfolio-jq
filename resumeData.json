@@ -94,6 +94,13 @@
   "portfolio":{
     "projects": [
       {
+        "title":"LORD OF THE STRINGS",
+        "category":"Phase 1 action rpg game written in 100% Ruby / CLI",
+        "image":"https://static.displate.com/280x392/displate/2020-06-06/a481bad876cd377fa0902cb5bea5dbca_ed43c50f867b773c21ee2e1edaca5eee.jpg",
+        "url":"https://github.com/NestorV95/Lord-of-the-Strings",
+        "video":"https://www.youtube.com/watch?v=zmsyRpRb8kg"
+      },
+      {
         "title":"Another Rythm Game",
         "category":"Phase 3 Rythm game written in JS, CSS and Ruby",
         "image":"https://i.gyazo.com/049f8a16f149a4b0a16d3e8956974924.png",
