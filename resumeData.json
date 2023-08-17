@@ -43,15 +43,27 @@
         "school":"Lonestar College",
         "degree":"Computer Science Field of Study",
         "graduated":"Current",
-        "description":"The Field of Study in computer Science consists of academic courses leading to an Associate of Arts degree.  Thistudent looking at computers can later be transferred and applied towards a Bachelors degree in Computer Science or Computer Management Information System."
+        "description":"The Field of Study in Computer Science consists of academic courses leading to an Associate of Arts degree.  The student looking at computers can later be transferred and applied towards a Bachelors degree in Computer Science or Computer Management Information System."
       }
     ],
     "work":[
       {
-        "company":"CSAT Solutions",
-        "title":"Computer Repair Technician",
-        "years":"June 2020 - January 2021",
-        "description":"Assisted in various IT related jobs including cable running, server management, cable management, internet setup, phone setup and motherboard replacement."
+        "company": "JPMorgan Chase & Co",
+        "title": "Software Engineer I",
+        "years": "Nov 2021 - May 2023",
+        "description": "Developed software applications in the Order Management System (OMS) using Java, Node.js, JavaScript, and React. Ensured optimal functionality and quality through thorough testing and QA. Led the development of a secure TCP network infrastructure. Mentored junior engineers, fostering a culture of growth and collaboration."
+      },
+      {
+        "company": "Stooty",
+        "title": "Co-Founding Software Developer",
+        "years": "July 2021 - Nov 2021",
+        "description": "Led product development at a startup, gaining experience in Ruby, Node.js, Ruby on Rails, AWS, and GCP. Utilized AWS and GCP to enhance product scalability and performance. Led migration of the application to AWS, improving scalability and security."
+      },
+      {
+        "company": "CSAT Solutions",
+        "title": "Computer Repair Technician",
+        "years": "June 2020 - January 2021",
+        "description": "Assisted in various IT-related jobs including cable running, server management, cable management, internet setup, phone setup and motherboard replacement."
       },
       {
         "company":"RTSI GLOBAL",
@@ -75,7 +87,7 @@
       },
       {
         "name":"Python",
-        "level":"30%"
+        "level":"63%"
       },
       {
         "name":"VueJs",
@@ -95,7 +107,7 @@
     "projects": [
       {
         "title":"LORD OF THE STRINGS",
-        "category":"Phase 1 action rpg game written in 100% Ruby / CLI",
+        "category":"Phase 1 action RPG game written in 100% Ruby / CLI",
         "image":"https://static.displate.com/280x392/displate/2020-06-06/a481bad876cd377fa0902cb5bea5dbca_ed43c50f867b773c21ee2e1edaca5eee.jpg",
         "url":"https://github.com/NestorV95/Lord-of-the-Strings",
         "video":"https://www.youtube.com/watch?v=zmsyRpRb8kg"
